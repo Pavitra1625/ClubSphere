@@ -191,6 +191,12 @@ Refer to the backend route files for the available endpoints and supported opera
 
 ClubSphere aims to simplify college event discovery, registration, and coordination through a centralized platform with role-specific dashboards and event-related workflows.
 
+---
+
+## 🎥 Video Demonstration
+
+[Watch the ClubSphere Project Demo](https://drive.google.com/file/d/1qel7HHJ7DaCkvy8kpCgWItSAxZJ4yPDI/view?usp=sharing)
+
 ## 👩‍💻 Author
 
 **Pavitra Patel**
